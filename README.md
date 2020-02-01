@@ -14,7 +14,7 @@
 
 ```shell
 git clone https://github.com/jiang4869/LeNet5-Tensorflow-MNIST.git
-cd LeNet-5
+cd LeNet5-Tensorflow-MNIST
 python train.py
 ```
 
